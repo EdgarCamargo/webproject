@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 22/04/2024, 10:36:36 PM
+    Author     : EDGAR
+*/
+
+/* Estilos CSS pueden ir aquí */
+
+head {
+    
+    background-color: #53f717;
+    color: #060606;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #53f717;
+    color: #060606;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+main { 
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+      
+}
+
+footer {
+    background-color: #000000;
+    color: #fcfffe;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.tablaloguin
+{
+    text-align: center;
+    display: inline-block
+}
+menu,
+ul {
+  display: flex;
+  list-style: none;
+  padding: 1px;
+  width: 100%;
+  text-align: center;
+}
+
+li {
+  flex-grow: 1;
+  margin: 7px;
+}
+.index,jsp
+{
+background-color: #333;
+}
+.centrar
+{text-align: center;}
